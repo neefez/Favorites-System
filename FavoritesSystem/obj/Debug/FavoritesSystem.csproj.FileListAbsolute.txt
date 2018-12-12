@@ -1,0 +1,9 @@
+J:\Projects\FavoritesSystem\bin\Debug\FavoritesSystem.exe.config
+J:\Projects\FavoritesSystem\bin\Debug\FavoritesSystem.exe
+J:\Projects\FavoritesSystem\bin\Debug\FavoritesSystem.pdb
+J:\Projects\FavoritesSystem\obj\Debug\FavoritesSystem.csprojResolveAssemblyReference.cache
+J:\Projects\FavoritesSystem\obj\Debug\FavoritesSystem.Form1.resources
+J:\Projects\FavoritesSystem\obj\Debug\FavoritesSystem.Properties.Resources.resources
+J:\Projects\FavoritesSystem\obj\Debug\FavoritesSystem.csproj.GenerateResource.Cache
+J:\Projects\FavoritesSystem\obj\Debug\FavoritesSystem.exe
+J:\Projects\FavoritesSystem\obj\Debug\FavoritesSystem.pdb
